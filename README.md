@@ -15,7 +15,7 @@
  │  Projects:                                │
  │    chip-8         CHIP-8 emulator         │
  │    toodoo         CLI task tracker        │
- │    lightmap       IoT lighting system     │
+ │    lightmap       IoT power tracker       │
  │    score-server   Game score backend      │
  └───────────────────────────────────────────┘
 
@@ -46,4 +46,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujo4eva&layout=compact&hide_title=true&hide_border=true&bg_color=0d1117&text_color=c9d1d9" />
 </picture>
 ```
-
