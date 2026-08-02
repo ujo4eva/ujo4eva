@@ -5,9 +5,9 @@
  │  ujo4eva — developer                      │
  ├───────────────────────────────────────────┤
  │  OS .......... Omarchy                    │
- │  Shell ....... fish                       │
+ │  Shell ....... FISH                       │
  │  WM .......... Hyprland                   │
- │  Editor ...... Zed                        │
+ │  Editor ...... Zed, Neovim                │
  │                                           │
  │  Languages ... Rust, TypeScript, Java     │
  │  Tools ....... Linux, Emulation, Web      │
