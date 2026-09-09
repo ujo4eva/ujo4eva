@@ -24,25 +24,25 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ujo4eva&show_icons=true&hide_title=true&hide_border=true&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff&include_all_commits=true&count_private=true"
+    srcset="./profile/stats-dark.svg"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ujo4eva&show_icons=true&hide_title=true&hide_border=true&bg_color=ffffff&text_color=333&icon_color=0366d6&include_all_commits=true&count_private=true"
+    srcset="./profile/stats-light.svg"
     media="(prefers-color-scheme: light)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=ujo4eva&show_icons=true&hide_title=true&hide_border=true&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff" />
+  <img src="./profile/stats-dark.svg" alt="GitHub stats" />
 </picture>
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ujo4eva&layout=compact&hide_title=true&hide_border=true&bg_color=0d1117&text_color=c9d1d9"
+    srcset="./profile/top-langs-dark.svg"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ujo4eva&layout=compact&hide_title=true&hide_border=true&bg_color=ffffff&text_color=333"
+    srcset="./profile/top-langs-light.svg"
     media="(prefers-color-scheme: light)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujo4eva&layout=compact&hide_title=true&hide_border=true&bg_color=0d1117&text_color=c9d1d9" />
+  <img src="./profile/top-langs-dark.svg" alt="Top languages" />
 </picture>
 ```
